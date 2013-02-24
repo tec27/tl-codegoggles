@@ -1,5 +1,5 @@
 #TL CodeGoggles
-##Chrome Extension for a Better [TeamLiquid.net](http://teamliquid.net) Code Viewing/Editing Experience
+###Chrome Extension for a Better [TeamLiquid.net](http://teamliquid.net) Code Viewing/Editing Experience
 
 Utilizes a combination of [ACE](http://ace.ajax.org/) (slightly modified to work better in an injected extension) and [HighlightJS](http://softwaremaniacs.org/soft/highlight/en/) (for language detection only).
 
