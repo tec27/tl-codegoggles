@@ -67,7 +67,7 @@ function inject() {
     return setTimeout(inject, 16)
   }
 
-  var scripts = [ 'highlight.pack.js'
+  var scripts = [ 'hljs/highlight.pack.js'
                 , 'codegoggles.js'
                 ]
     , styles =  [ 'codegoggles.css'

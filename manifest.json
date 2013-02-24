@@ -13,7 +13,7 @@
                       ]
 , "web_accessible_resources": [ "codegoggles.js"
                               , "codegoggles.css"
-                              , "highlight.pack.js"
+                              , "hljs/highlight.pack.js"
                               , "ace/ace.js"
                               , "ace/ext-searchbox.js"
                               , "ace/ext-spellcheck.js"
